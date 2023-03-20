@@ -61,4 +61,81 @@
     display: inline-block;
     text-align: center;
 }
+
+
+#q1-goals-box{
+    width: 50px;
+    height: 12px;
+    background-color: rgb(255, 118, 118);
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+#recruiting-box{
+    width: 50px;
+    height: 12px;
+    background-color: rgb(88, 228, 99);
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+#mobile-box{
+    width: 50px;
+    height: 12px;
+    background-color: rgb(199, 197, 99);
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+#website-box{
+    width: 50px;
+    height: 12px;
+    background-color: rgb(168, 18, 18);
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+
+
+#sales-box{
+    width: 50px;
+    height: 12px;
+    background-color: rgb(45, 37, 168);
+    color: white;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    display: inline-block;
+    text-align: center;
+
+}
+
+.check-border{
+    color: rgb(0, 255, 0);
+}
+
+
+
     
