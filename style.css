@@ -29,6 +29,12 @@
     
   }
 
+
+
+  #margin-button{
+    margin-left: 20px;
+  }
+
   .bg-main {
     background-color: rgb(231, 229, 229);
     width: 1356px;
