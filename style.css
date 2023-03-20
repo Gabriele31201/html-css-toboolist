@@ -29,15 +29,14 @@
     
   }
 
-  .bg-body{
+  .bg-main {
     background-color: rgb(231, 229, 229);
-  }
+    width: 1356px;
+    height: 846px;
+    padding-top: 10px;
+    padding-bottom: 31px;
+}
 
-  .logo-box{
-    background-color: white;
-    margin-top: 0%;
-    
-  }
 
   .text-margin{
     margin-left: 20px;
