@@ -134,8 +134,15 @@
 
 .check-border{
     color: rgb(0, 255, 0);
+    border-style: solid;
+    border-radius: 50%;
+
 }
 
+.X-border{
+    color: rgb(255, 0, 0);
+    border-style: solid;
+    border-radius: 50%;
 
+}
 
-    
