@@ -1,16 +1,24 @@
 .bg-main{
     background-color: rgb(212, 212, 212);
+    
 }
 
-.button{
+.button-box{
     background-color: white;
     width: 800px;
-    height: 50px;
+    height: 36px;
     margin-left: 330px;
     margin-top: 3%;
+    padding-top: 16px;
     
 }
 
 .button-color:hover {
     background-color: rgb(117, 177, 255);
   }
+
+  .font-size-summary{
+    font-size: large;
+    
+  }
+
